@@ -72,9 +72,5 @@ The suicidal BERT and ELECTRA text classification models trained are available o
 ## 8. Chatbot Integration
 Run `chatbot.ipynb` to use the mental health chatbot, integrated with the suicidal detection model. The chatbot is based on DialoGPT and custom retrieval-based responses were integrated to suit our use case.
 
-## Contributors
-- Aeron Sim Shih Wen - [@aeronsimshihwin](https://github.com/aeronsimshihwin)
-- Goh Jia Yi - [@gohjiayi](https://github.com/gohjiayi)
-- Lim Zi Hui - [@limzihui](https://github.com/limzihui)
 - Lin Xiao - [@anqier98](https://github.com/anqier98)
 - Quek Yi Zhen - [@quekyizhen](https://github.com/quekyizhen)
